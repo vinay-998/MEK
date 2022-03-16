@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MEK/static/css/main.eaedebb9.css",
-    "main.js": "/MEK/static/js/main.42e3c01f.js",
+    "main.js": "/MEK/static/js/main.90008a4f.js",
     "static/js/845.6d69c3b9.chunk.js": "/MEK/static/js/845.6d69c3b9.chunk.js",
     "static/js/787.29f4e56c.chunk.js": "/MEK/static/js/787.29f4e56c.chunk.js",
     "static/media/play.mp3": "/MEK/static/media/play.8e5f6d1d81d4e1414b95.mp3",
@@ -9,12 +9,12 @@
     "static/media/wrong.mp3": "/MEK/static/media/wrong.e946821894ae9b0a0d6f.mp3",
     "index.html": "/MEK/index.html",
     "main.eaedebb9.css.map": "/MEK/static/css/main.eaedebb9.css.map",
-    "main.42e3c01f.js.map": "/MEK/static/js/main.42e3c01f.js.map",
+    "main.90008a4f.js.map": "/MEK/static/js/main.90008a4f.js.map",
     "845.6d69c3b9.chunk.js.map": "/MEK/static/js/845.6d69c3b9.chunk.js.map",
     "787.29f4e56c.chunk.js.map": "/MEK/static/js/787.29f4e56c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eaedebb9.css",
-    "static/js/main.42e3c01f.js"
+    "static/js/main.90008a4f.js"
   ]
 }
